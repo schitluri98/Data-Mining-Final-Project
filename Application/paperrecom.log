@@ -1,0 +1,15 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 143-810-051
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:55:31] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:55:32] "[36mGET /static/css/header.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:55:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:55:44] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:55:44] "[36mGET /static/css/header.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:55:48] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:55:48] "[36mGET /static/css/header.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:56:06] "GET /process?query=tensorflow HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:56:06] "[36mGET /static/css/header.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:57:09] "GET /similar/5 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:57:09] "[36mGET /static/css/header.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:57:15] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Nov/2022 18:57:15] "[36mGET /static/css/header.png HTTP/1.1[0m" 304 -

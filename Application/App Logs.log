@@ -1,0 +1,7 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 209-860-292
+werkzeug - INFO - 127.0.0.1 - - [22/Oct/2022 09:53:40] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [22/Oct/2022 09:53:41] "[36mGET /static/css/header.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [22/Oct/2022 09:53:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [22/Oct/2022 09:54:48] "GET /process?query=tensorflow HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [22/Oct/2022 09:54:48] "[36mGET /static/css/header.png HTTP/1.1[0m" 304 -
